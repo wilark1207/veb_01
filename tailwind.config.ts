@@ -18,7 +18,8 @@ const config: Config = {
         xcdBlack:"#0D0D0D",
         xcdNavy:"#061625",
         xcdOffWhite:"#E6E6E6",
-        xcdOrange:"#EA5901"
+        xcdOrange:"#EA5901",
+        xcdLightOrange: "#FF7A31"
       }
     },
   },
