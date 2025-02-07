@@ -132,7 +132,7 @@ const ExamListPage = () => {
             <td className="hidden md:table-cell p-4">{item.mark}</td>
             <td>
                 <div className="flex items-center gap-2">
-                    <Link href={`/list/exam/${item.paperId}`}>
+                    <Link href={`/list/exams/${item.paperId}`}>
                         <button className="w-7 h-7 flex items-center justify-center">
                             <DocumentIcon className="h-4 w-4 text-gray-900"/>
                         </button>
